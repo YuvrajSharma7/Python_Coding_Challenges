@@ -65,5 +65,5 @@ env/
 
 # selenium
 selenium-*.log
-selenium-demo
+selenium-demo/chrome_profile
 
